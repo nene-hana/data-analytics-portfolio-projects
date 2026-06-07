@@ -1,4 +1,4 @@
-# 🛍️ Customer Behavior Data Analysis
+# 🛍️ Customer Behavior Data Analysis.
 <img width="746" height="483" alt="image" src="https://github.com/user-attachments/assets/c82bf410-dc17-4ac8-9d64-2717fb2d34e8" />
 
 
