@@ -34,8 +34,6 @@ A leading retail company wants to better understand its customers' shopping beha
 
 ## 📊 Dashboard
 
-![Customer Behavior Dashboard](dashboard.png)
-
 **Key Metrics:**
 - 3.9K customers analyzed
 - Average review rating: **3.75**
