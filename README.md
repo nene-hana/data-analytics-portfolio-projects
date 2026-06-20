@@ -50,21 +50,6 @@ All projects in this portfolio share a consistent analytical pipeline:
 
 ---
 
-## Project Structure
-
-Every project is organized consistently:
-
-```
-project-name/
-├── problem_statement/     # Business context and objective
-├── data/                  # Source dataset(s)
-├── analysis.ipynb         # EDA, feature engineering, visualizations
-├── queries.sql            # SQL queries for extraction and aggregation
-├── dashboard.pbix         # Interactive Power BI dashboard
-└── presentation.pptx      # Stakeholder-facing summary deck
-```
-
----
 
 ## Approach
 
