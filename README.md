@@ -86,7 +86,8 @@ Every project is completed in full before being published.
 ---
 
 
-*This portfolio is actively being built. Each project is completed end-to-end before being published here.  visit my profile for more* [![GitHub](https://img.shields.io/badge/GitHub-nene--hana-181717?style=flat&logo=github)](https://github.com/nene-hana).
+*This portfolio is actively being built. Each project is completed end-to-end before being published here.  visit my profile for more*
+[![GitHub](https://img.shields.io/badge/GitHub-nene--hana-181717?style=flat&logo=github)](https://github.com/nene-hana).
 
 
 
